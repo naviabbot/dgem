@@ -1,0 +1,21 @@
+```
+     |
+  _` |  _` |  _ \ __ `__ \
+ (   | (   |  __/ |   |   |
+\__,_|\__, |\___|_|  _|  _|
+      |___/
+```
+# The Directory of Gemini 
+### dgem.jdcain.me
+In the spirit of the world's largest webdirectory, Curlie (FKA dmoz), dgem presents a manually curated and organized list of Gemini Capsules.
+
+## Categories
+
+=> arts Arts
+=> games Games
+=> people People
+=> science Science
+=> technology Tech
+
+## Don't see your site here?
+Send an email to me+dgem@jdcain.me

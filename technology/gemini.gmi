@@ -1,0 +1,18 @@
+
+```
+     |
+  _` |  _` |  _ \ __ `__ \
+ (   | (   |  __/ |   |   |
+\__,_|\__, |\___|_|  _|  _|
+      |___/
+```
+
+# The Directory of Gemini - Technology/Gemini
+### dgem.jdcain.me/technology/gemini.gmi
+
+=> gemini://gemini.circumlunar.space Project Gemini
+=> gemini://gus.guru Gemini Unified Search
+=> gemini://gemini.circumlunar.space/capcom/ CAPCOM Feed agregator
+=> gemini://rawtext.club:1965/~sloum/spacewalk.gmi Spacewalk Feed Aggregator
+
+If you run a capsule and you'd like to be included, please email me+dgem@jdcain.me

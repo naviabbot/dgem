@@ -1,0 +1,14 @@
+```
+     |
+  _` |  _` |  _ \ __ `__ \
+ (   | (   |  __/ |   |   |
+\__,_|\__, |\___|_|  _|  _|
+      |___/
+```
+
+# The Directory of Gemini - People/Gemlogs
+### dgem.jdcain.me/people/gemlogs.gmi
+
+=> gemini://jdcain.me jdcain.me
+
+If you run a capsule and you'd like to be included, please email me+dgem@jdcain.me

@@ -1,0 +1,13 @@
+```
+     |
+  _` |  _` |  _ \ __ `__ \
+ (   | (   |  __/ |   |   |
+\__,_|\__, |\___|_|  _|  _|
+      |___/
+```
+# The Directory of Gemini - Games
+### dgem.jdcain.me/games
+
+=> gemini://tictactoe.lanterne.chilliet.eu Tic-Tac-Toe
+
+If you run a capsule and would like to be added, please email me+dgem@jdcain.me
